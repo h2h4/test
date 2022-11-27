@@ -1,0 +1,15 @@
+{
+	"name": "test",
+	"version": "0.0.1",
+	"license": "MIT",
+	"scripts": {
+		"deploy": "node deploy.js"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"copyfiles": "2.4.1",
+		"gh-pages": "4.0.0",
+		"musetric-app": "0.0.42",
+		"rimraf": "3.0.2"
+	}
+}
