@@ -83,7 +83,7 @@ const create = (env) => {
             new CopyPlugin({
                 patterns: [
                     { from: './src/index.html', to: './index.html' },
-
+                    { from: './src/index.css', to: './index.css' },
                     { from: './src/favicon.ico', to: './favicon.ico' },
                     { from: './package.json', to: './package.json' },
                     
